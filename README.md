@@ -51,7 +51,7 @@ On a metered connection, a mobile hotspot, or a slow rural/satellite link, this 
 Grab the latest `BandwidthGuard.exe` from the [Releases](../../releases) page, or build it yourself:
 
 ```bash
-git clone https://github.com/kanade-shiraishi/BandwidthGuard.git
+git clone https://github.com/kanade-shiraishi/bandwidthguard-windows-update-blocker
 cd BandwidthGuard
 go build -ldflags="-s -w" -o BandwidthGuard.exe .
 ```
