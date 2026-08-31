@@ -12,7 +12,7 @@ import (
 )
 
 const appName = "BandwidthGuard"
-const appAuthor = "Kanade Shiraishi"
+const appAuthor = "Yoshie Shiraishi"
 const appVersion = "1.0"
 
 type service struct {
