@@ -143,4 +143,4 @@ If BandwidthGuard was useful to you, a star on this repository helps other peopl
 
 MIT © Yoshie Shiraishi — see [LICENSE](LICENSE) for details.
 
-#<meta name="msvalidate.01" content="03176C7F130CA75C6703F783A39E38F1" />
+<meta name="msvalidate.01" content="03176C7F130CA75C6703F783A39E38F1" />
