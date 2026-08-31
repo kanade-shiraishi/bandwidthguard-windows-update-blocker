@@ -1,13 +1,13 @@
 # BandwidthGuard
 
-**BandwidthGuard** is a free, open-source Windows utility that stops **Windows Update**, **Delivery Optimization**, and **BITS** from silently consuming your internet bandwidth in the background — and puts everything back to normal the moment you're done. Built by **Kanade Shiraishi** in Go, with zero external dependencies.
+**BandwidthGuard** is a free, open-source Windows utility that stops **Windows Update**, **Delivery Optimization**, and **BITS** from silently consuming your internet bandwidth in the background — and puts everything back to normal the moment you're done. Built by **Yoshie Shiraishi** in Go, with zero external dependencies.
 
 If you've ever asked *"why is Windows Update using all my bandwidth"* or *"how do I stop Delivery Optimization from uploading updates to other PCs"*, this tool answers that in one command.
 
 [![Go](https://img.shields.io/badge/Go-1.22-00ADD8?logo=go)](https://go.dev)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Author](https://img.shields.io/badge/author-Kanade%20Shiraishi-informational)](#author)
+[![Author](https://img.shields.io/badge/author-Yoshie%20Shiraishi-informational)](#author)
 
 ---
 
@@ -51,7 +51,7 @@ On a metered connection, a mobile hotspot, or a slow rural/satellite link, this 
 Grab the latest `BandwidthGuard.exe` from the [Releases](../../releases) page, or build it yourself:
 
 ```bash
-git clone https://github.com/kanade-shiraishi/bandwidthguard-windows-update-blocker
+git clone https://github.com/yoshie-shiraishi/bandwidthguard-windows-update-blocker
 cd BandwidthGuard
 go build -ldflags="-s -w" -o BandwidthGuard.exe .
 ```
@@ -141,4 +141,4 @@ If BandwidthGuard was useful to you, a star on this repository helps other peopl
 
 ## License
 
-MIT © Kanade Shiraishi — see [LICENSE](LICENSE) for details.
+MIT © Yoshie Shiraishi — see [LICENSE](LICENSE) for details.
